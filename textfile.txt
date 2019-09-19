@@ -1,2 +1,2 @@
-tanmayy
-now changes done in test branch
+Hello, Tanmay here
+just a basic repo for a workshop organised by DUCS
